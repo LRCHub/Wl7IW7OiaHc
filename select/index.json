@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "魂のルフラン",
+  "base_artist": "高橋洋子",
+  "createdAt": "2025-12-04T13:12:48.409598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魂のルフラン (新世紀エヴァンゲリオン) (LIVE)",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/01_魂のルフラン_(新世紀エヴァンゲリオン)_(LIVE)_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魂のルフラン - LIVE",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/02_魂のルフラン_-_LIVE_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魂のルフラン - TeddyLoid 2014 Remix",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/03_魂のルフラン_-_TeddyLoid_2014_Remix_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "魂のルフラン (TeddyLoid 2014 Remix)",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/04_魂のルフラン_(TeddyLoid_2014_Remix)_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "Yoko Takahashi",
+      "has_synced": false,
+      "path": "select/05_魂のルフラン_Yoko_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/06_魂のルフラン_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tamashii No Refrain [魂のルフラン]",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/07_Tamashii_No_Refrain_[魂のルフラン]_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/08_魂のルフラン_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/09_魂のルフラン_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/10_魂のルフラン_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "魂のルフラン (10TH ANNIVERSARY VERSION)",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/11_魂のルフラン_(10TH_ANNIVERSARY_VERSION)_高橋洋子.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/12_魂のルフラン_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/13_魂のルフラン_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "魂のルフラン",
+      "artist": "高橋洋子",
+      "has_synced": false,
+      "path": "select/14_魂のルフラン_高橋洋子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魂のルフラン",
+      "artist": "高橋 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_魂のルフラン_高橋_洋子.txt"
+    }
+  ]
+}
